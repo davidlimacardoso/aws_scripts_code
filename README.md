@@ -7,7 +7,7 @@ Script codes and commands CLI to facilities uses in production...
 
 - SQS
 - TAGS
-
+- ECS
 
 
 ## Author
