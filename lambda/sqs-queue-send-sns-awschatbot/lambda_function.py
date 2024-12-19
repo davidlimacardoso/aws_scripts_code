@@ -71,7 +71,7 @@ def lambda_handler(event, context):
                 "version": "1.0",
                 "source": "custom",
                 "content": {
-                    "title": "SVR - Falha no Resgate de Saldo, Chave Pix Inválida!",
+                    "title": "Lista de Mensagens Represadas",
                     "description": message_text
                 }
             })
