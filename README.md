@@ -2,13 +2,17 @@
 
 Script codes and commands CLI to facilities uses in production...
 
+## Prerequisites
 
-## What are here?
+- Python 3.10 (or later)
 
-- SQS
-- TAGS
-- ECS
-- SECRETS MANAGER
+
+## Install Requirements
+```bash
+$ pip install -r requirements
+```
+
+## Usage
 
 
 ## Author
