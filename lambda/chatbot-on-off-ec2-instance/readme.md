@@ -7,7 +7,7 @@
 
 ### Alias to Function
 ```
-@Amazon Q alias create lydians lambda invoke --payload {"action": "$action", "instance": "$instance","env": "$env" } --function-name amazon-q-chat-on-off-ec2-instances --region us-east-1
+@Amazon Q alias create ec2 lambda invoke --payload {"action": "$action", "instance": "$instance","env": "$env" } --function-name amazon-q-chat-on-off-ec2-instances --region us-east-1
 ```
 
 ### Invoke Function by Alias
