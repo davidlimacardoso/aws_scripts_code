@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 # Defina as variáveis
 BUCKET="mongo-atlas-backups"
 PREFIX="exported_snapshots/5aeb8f4896e821xxxxxxxxx/60bee66bf642ffxxxxxxxx/statement/2025-04-22T1603/1745349654/"
